@@ -1,0 +1,9 @@
+AlertachuvaApiApplication.class
+com\alertachuva\model\Sensor.class
+com\alertachuva\model\Leitura.class
+com\alertachuva\model\Usuario.class
+com\alertachuva\model\Leitura$LeituraBuilder.class
+com\alertachuva\model\Alerta$AlertaBuilder.class
+com\alertachuva\model\Usuario$UsuarioBuilder.class
+com\alertachuva\model\Alerta.class
+com\alertachuva\model\Sensor$SensorBuilder.class

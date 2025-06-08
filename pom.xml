@@ -101,6 +101,12 @@
 
 <build>
   <plugins>
+    <!-- Plugin do Spring Boot -->
+    <plugin>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-maven-plugin</artifactId>
+    </plugin>
+
     <!-- Plugin do JAR -->
     <plugin>
       <groupId>org.apache.maven.plugins</groupId>
@@ -127,6 +133,7 @@
     </plugin>
   </plugins>
 </build>
+
 
 
 
